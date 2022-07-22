@@ -1,0 +1,2 @@
+gcc main.c -lGL -lglut -lGLEW -lGLU  -o "main"
+
